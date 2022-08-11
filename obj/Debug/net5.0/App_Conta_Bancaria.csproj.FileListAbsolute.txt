@@ -1,0 +1,16 @@
+C:\Users\gateway\Desktop\App_Conta_Bancaria\bin\Debug\net5.0\App_Conta_Bancaria.exe
+C:\Users\gateway\Desktop\App_Conta_Bancaria\bin\Debug\net5.0\App_Conta_Bancaria.deps.json
+C:\Users\gateway\Desktop\App_Conta_Bancaria\bin\Debug\net5.0\App_Conta_Bancaria.runtimeconfig.json
+C:\Users\gateway\Desktop\App_Conta_Bancaria\bin\Debug\net5.0\App_Conta_Bancaria.runtimeconfig.dev.json
+C:\Users\gateway\Desktop\App_Conta_Bancaria\bin\Debug\net5.0\App_Conta_Bancaria.dll
+C:\Users\gateway\Desktop\App_Conta_Bancaria\bin\Debug\net5.0\App_Conta_Bancaria.pdb
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\App_Conta_Bancaria.csproj.AssemblyReference.cache
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\App_Conta_Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\App_Conta_Bancaria.AssemblyInfoInputs.cache
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\App_Conta_Bancaria.AssemblyInfo.cs
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\App_Conta_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\App_Conta_Bancaria.dll
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\refint\App_Conta_Bancaria.dll
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\App_Conta_Bancaria.pdb
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\App_Conta_Bancaria.genruntimeconfig.cache
+C:\Users\gateway\Desktop\App_Conta_Bancaria\obj\Debug\net5.0\ref\App_Conta_Bancaria.dll
